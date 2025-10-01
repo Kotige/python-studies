@@ -1,5 +1,6 @@
 # if / elif / else
 #
+#
 #Exemplo:
 #
 entrada = input('Você quer "entrar" ou "sair"? ')

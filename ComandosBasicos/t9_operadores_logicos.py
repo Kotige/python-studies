@@ -3,6 +3,7 @@ Operadores Lógicos
 and (e), or (ou), not (não)
 
 
+
 AND
 todas as condições precisam ser verdadeiras
 se qualquer valor for falso, a expressão inteira irá retornar falso

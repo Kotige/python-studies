@@ -1,5 +1,6 @@
 # Primeiros comandos em Python.
 # 
+#
 """
 É chamado de doc string e, diferente dos comentários, esse
 texto pode ser feito em muitas linhas e ele é lido pelos

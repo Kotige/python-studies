@@ -4,6 +4,7 @@ Sua tipagem é dinâmica e forte. Significa que ele entende o tipo de informaç�
 que está sendo passada para ele. Não há necessidade de informar o tipo de dado.
 """
 #
+#
 #Strings (srt) = Textos que são colocados dentro de aspas. Pode ser colocado em
 # aspas simples ou duplas. O importante é que as aspas abertas sejam as mesmas fechadas.
 print('Isso é uma string')

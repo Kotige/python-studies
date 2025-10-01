@@ -1,3 +1,4 @@
+#
 adicao = 10 + 10  # O operador + pode ser usado para concatenar strings.
 print("Adição", adicao)
 #
